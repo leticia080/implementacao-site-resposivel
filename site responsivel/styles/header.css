@@ -2,6 +2,7 @@
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
+    background-repeat: no-repeat;
     display: inline-block;
 }
 .cabeçalho {
@@ -17,12 +18,12 @@
     align-items: center;
 }
 
-.container__imagem,
+.container__imagem ;
 .container__frase {
     padding: 1em;
 }
 
-.container__titulo,
+.container__titulo ;
 .container__frase {
     display: none;
 }
