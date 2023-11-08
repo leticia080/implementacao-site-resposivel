@@ -19,12 +19,10 @@
     align-items: center;
 }
 
-.container__imagem ;
-.container__frase {
+.container__imagem {
     padding: 1em;
 }
 
-.container__titulo ;
-.container__frase {
+.container__titulo {
     display: none;
 }
