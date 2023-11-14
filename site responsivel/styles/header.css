@@ -23,6 +23,10 @@
     padding: 1em;
 }
 
-.container__titulo {
+.lista-menu {
     display: none;
+}
+
+.container_botao:checked ~ .lista-menu {
+    display: blockS;
 }
